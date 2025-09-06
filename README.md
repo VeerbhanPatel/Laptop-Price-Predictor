@@ -1,3 +1,11 @@
+###Lpatop Price Predictor
+
+
+<img width="1795" height="975" alt="image" src="https://github.com/user-attachments/assets/bca09e46-7ec2-48c1-9ccc-e77b67c20516" />
+
+
+
+
 ### There are 11 features and 1304 entries in this dataset. The different features available in this dataset are :-
 
 ### Company - The Company which makes this Laptop
