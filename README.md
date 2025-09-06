@@ -1,6 +1,6 @@
 ### There are 11 features and 1304 entries in this dataset. The different features available in this dataset are :-
 
-### Company - 
+### Company - The Company which makes this Laptop
 
 ### TypeName - The type of laptop, e.g., Ultrabook, Notebook, Gaming, etc.
 ### Inches  - The size/width of the laptop in inches.
