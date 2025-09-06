@@ -1,4 +1,4 @@
-###### Lpatop Price Predictor
+### Laptop Price Predictor
 
 
 
